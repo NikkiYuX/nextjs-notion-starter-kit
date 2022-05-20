@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '5be470d971404940ac3985fdaa411b66?v=bbd3975493e94939bb5f3d32cdb0e441',
+  rootNotionPageId: '7997188dde8b43c399b8ddcdefe6c56a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'C929-Log',
-  domain: 'https://nikkiy.notion.site/5be470d971404940ac3985fdaa411b66?v=bbd3975493e94939bb5f3d32cdb0e441',
-  author: 'Yu Mei Mei',
+  name: 'C-929 Database',
+  domain: 'https://www.notion.so/yumeimei/C-929-Database-Test-7997188dde8b43c399b8ddcdefe6c56a',
+  author: 'Nikki',
 
   // open graph metadata (optional)
   description: 'Example site description',
